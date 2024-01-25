@@ -1,0 +1,11 @@
+{
+  "name": "update random joke",
+  "version": "1.0.0",
+  "description": "Tests on readme",
+  "scripts": {
+    "start": "node updateReadme.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}

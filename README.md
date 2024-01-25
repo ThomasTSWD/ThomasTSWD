@@ -4,6 +4,9 @@
 <!-- END_JOKE_SECTION -->
 
 
+![Build README](https://github.com/TonNomUtilisateurGitHub/TonNomUtilisateurGitHub/workflows/Build%20README/badge.svg)
+
+
 <!--
 **ThomasTSWD/ThomasTSWD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

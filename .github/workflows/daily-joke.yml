@@ -4,10 +4,6 @@ on:
   schedule:
     - cron: '0 12 * * *'  # Chaque jour à midi UTC (ajuste selon ton fuseau horaire)
 
-  workflow_dispatch:  # Ajoute le déclencheur manuel
-    inputs:
-      reason: "Manually triggered build"
-
   push:
     branches:
       - main

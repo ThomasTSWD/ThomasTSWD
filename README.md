@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<!-- START_JOKE_SECTION --> ... <!-- END_JOKE_SECTION -->
+
+-
+
 <!--
 **ThomasTSWD/ThomasTSWD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

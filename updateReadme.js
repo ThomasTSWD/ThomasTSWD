@@ -36,5 +36,4 @@ async function updateReadmeWithJoke() {
     console.error("Erreur lors de la mise à jour du README :", error);
   }
 }
-
 updateReadmeWithJoke();

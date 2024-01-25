@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-`<!-- START_JOKE_SECTION --> ... <!-- END_JOKE_SECTION -->`
-
-<!-- START_JOKE_SECTION --> ... <!-- END_JOKE_SECTION -->
-
+<!-- START_JOKE_SECTION -->
+<!-- END_JOKE_SECTION -->
 
 
 <!--

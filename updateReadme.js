@@ -7,9 +7,9 @@ async function getRandomJoke() {
     const data = await response.json();
 
     if (data.type === "single") {
-      return `Blague du jour : ${data.joke}`;
+      return `${data.joke}`;
     } else {
-      return `Blague du jour :\n\n${data.setup}\n\n${data.delivery}`;
+      return `\n\n${data.setup}\n\n${data.delivery}`;
     }
   } catch (error) {
     console.error("Erreur lors de la récupération de la blague :", error);

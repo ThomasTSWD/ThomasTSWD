@@ -6,8 +6,10 @@ Weekly joke 💁‍♂️
 
 
 <!-- START_JOKE_SECTION -->
-> A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+> 
+> Why did the programmer jump on the table?> 
+> 
+> Because debug was on his screen.
 <!-- END_JOKE_SECTION -->
 
 

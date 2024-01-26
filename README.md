@@ -6,10 +6,7 @@ Weekly joke 💁‍♂️
 
 
 <!-- START_JOKE_SECTION -->
-> 
-> I told my wife to shave her pussy
-> 
-> I woke up bald.
+> I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"
 <!-- END_JOKE_SECTION -->
 
 

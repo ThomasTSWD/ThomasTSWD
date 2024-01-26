@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##![Cute cat](https://cataas.com/cat?width=250&height=250)
+
 
 Weekly joke 💁‍♂️
 
@@ -19,3 +19,4 @@ Weekly joke 💁‍♂️
 ![Build README](https://github.com/ThomasTSWD/ThomasTSWD/workflows/Build%20README/badge.svg)
 
 
+<!-- ##![Cute cat](https://cataas.com/cat?width=250&height=250) -->

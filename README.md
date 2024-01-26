@@ -4,7 +4,11 @@ Weekly joke 💁‍♂️
 
 
 <!-- START_JOKE_SECTION -->
-> My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like.
+> 
+> 
+> I told my psychiatrist I got suicidal tendencies.> 
+> 
+> He said from now on I have to pay in advance.
 <!-- END_JOKE_SECTION -->
 
 

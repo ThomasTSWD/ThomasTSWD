@@ -7,10 +7,9 @@ Weekly joke 💁‍♂️
 
 <!-- START_JOKE_SECTION -->
 > 
+> I told my wife to shave her pussy.> 
 > 
-> My first high-school football game was a lot like my first time having sex...> 
-> 
-> I was bloody and sore at the end, but at least my dad came.
+> I woke up bald.
 <!-- END_JOKE_SECTION -->
 
 

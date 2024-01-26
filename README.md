@@ -6,9 +6,9 @@
 <!-- START_JOKE_SECTION -->
 
 
-> If I make you breakfast in bed, a simple thank you is all I need.
+> What's the difference between a feminist and a grenade?
 
-Not all this "How the fuck did you get in my house?!" nonsense.
+> The grenade actually accomplishes something when it triggers.
 <!-- END_JOKE_SECTION -->
 
 

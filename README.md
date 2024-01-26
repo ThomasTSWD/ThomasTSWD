@@ -11,6 +11,8 @@ Me: "Damn."
 <!-- END_JOKE_SECTION -->
 
 
+*Powered by jokeapi*
+
 
 ![Build README](https://github.com/ThomasTSWD/ThomasTSWD/workflows/Build%20README/badge.svg)
 

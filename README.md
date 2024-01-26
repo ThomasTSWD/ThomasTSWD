@@ -4,9 +4,11 @@
 
 
 <!-- START_JOKE_SECTION -->
-I'm not saying my son is ugly...
 
-But on Halloween he went to tell the neighbors to turn down their TV and they gave him some candy.
+
+What do you call a deaf gynecologist?
+
+A lip reader.
 <!-- END_JOKE_SECTION -->
 
 

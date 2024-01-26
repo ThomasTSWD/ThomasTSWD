@@ -6,7 +6,8 @@ Weekly joke 💁‍♂️
 
 
 <!-- START_JOKE_SECTION -->
-> I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"
+> A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 <!-- END_JOKE_SECTION -->
 
 

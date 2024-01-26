@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Cute cat](https://cataas.com/cat?width=200&height=200)
+
 Weekly joke 💁‍♂️
 
 

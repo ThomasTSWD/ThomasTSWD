@@ -4,11 +4,10 @@ Weekly joke
 
 
 <!-- START_JOKE_SECTION -->
-
-
-> Why does Beyonce sing "to the left, to the left"?
-
-> Because women don't have rights.
+> Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."
 <!-- END_JOKE_SECTION -->
 
 

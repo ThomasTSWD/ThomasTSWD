@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> Weekly joke
+Weekly joke
 
 
 <!-- START_JOKE_SECTION -->

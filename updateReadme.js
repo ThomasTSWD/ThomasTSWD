@@ -7,9 +7,9 @@ async function getRandomJoke() {
     const data = await response.json();
 
     if (data.type === "single") {
-      return `${data.joke}`;
+      return `> ${data.joke}`;
     } else {
-      return `\n\n${data.setup}\n\n${data.delivery}`;
+      return `\n\n> ${data.setup}\n\n${data.delivery}`;
     }
   } catch (error) {
     console.error("Erreur lors de la récupération de la blague :", error);
@@ -34,7 +34,7 @@ async function updateReadmeWithJoke() {
     // Remplace la section de blague dans le README
     const updatedReadme = readmeData.replace(
       /<!-- START_JOKE_SECTION -->[\s\S]*<!-- END_JOKE_SECTION -->/gim,
-      `<!-- START_JOKE_SECTION -->\n"> "${jokeData}\n<!-- END_JOKE_SECTION -->`
+      `<!-- START_JOKE_SECTION -->\n${jokeData}\n<!-- END_JOKE_SECTION -->`
     );
 
     // Écriture du nouveau README

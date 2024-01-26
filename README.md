@@ -7,9 +7,9 @@ Weekly joke 💁‍♂️
 
 <!-- START_JOKE_SECTION -->
 > 
-> Did you hear about the cheese factory that exploded in France?
+> When I was a kid, I made a really big sandcastle with my grandma.
 > 
-> There was nothing but de brie.
+> Unfortunately, that didn't impress anyone at the cremation...
 <!-- END_JOKE_SECTION -->
 
 

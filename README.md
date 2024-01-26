@@ -4,10 +4,11 @@
 
 
 <!-- START_JOKE_SECTION -->
-"> ""Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+
+
+> If I make you breakfast in bed, a simple thank you is all I need.
+
+Not all this "How the fuck did you get in my house?!" nonsense.
 <!-- END_JOKE_SECTION -->
 
 

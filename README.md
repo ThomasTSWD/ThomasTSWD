@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 <!-- START_JOKE_SECTION -->
-My wife is really mad at the fact that I have no sense of direction.
-So I packed up my stuff and right.
+
+
+You see, mountains aren't just funny.
+
+They are hill areas.
 <!-- END_JOKE_SECTION -->
 
 

@@ -4,10 +4,7 @@ Weekly joke
 
 
 <!-- START_JOKE_SECTION -->
-> Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn."
+> My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like.
 <!-- END_JOKE_SECTION -->
 
 

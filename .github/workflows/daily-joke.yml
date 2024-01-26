@@ -2,7 +2,9 @@ name: Build README
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # Chaque jour à midi UTC (ajuste selon ton fuseau horaire)
+    #- cron: '0 12 * * *'  # Chaque jour à midi UTC (ajuste selon ton fuseau horaire)
+    - cron: '*/5 * * * *'  # Chaque jour à midi UTC (ajuste selon ton fuseau horaire)
+    
 
   push:
     branches:
@@ -28,4 +30,15 @@ jobs:
           CI: true
 
       - name: Update README with Joke
-        run: node updateReadme.js
+        run: |-
+          node updateReadme.js
+          cat README.md
+
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "hello@tswd.fr"
+          git config --global user.name "ThomasTSWD"
+          git add -A
+          git commit -m "Update README" || exit 0
+          git push

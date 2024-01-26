@@ -7,9 +7,9 @@ Weekly joke 💁‍♂️
 
 <!-- START_JOKE_SECTION -->
 > 
-> Why did the ghost go to the bar?
+> Did you hear about the cheese factory that exploded in France?
 > 
-> To get sheet faced.
+> There was nothing but de brie.
 <!-- END_JOKE_SECTION -->
 
 

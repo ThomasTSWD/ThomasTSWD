@@ -4,11 +4,10 @@
 
 
 <!-- START_JOKE_SECTION -->
-
-
-What do you call a deaf gynecologist?
-
-A lip reader.
+"> ""Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
 <!-- END_JOKE_SECTION -->
 
 

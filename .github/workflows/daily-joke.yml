@@ -2,9 +2,9 @@ name: Build README
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # Chaque jour à midi UTC (ajuste selon ton fuseau horaire)
+    #- cron: '0 12 * * *'  # Chaque jour à midi UTC (ajuste selon ton fuseau horaire)
     #- cron: '*/5 * * * *'  # 5 minutes
-    
+    - cron: '0 12 * * 6' # Tous les samedi midi
 
   push:
     branches:

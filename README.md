@@ -7,7 +7,7 @@ Weekly joke 💁‍♂️
 
 <!-- START_JOKE_SECTION -->
 > 
-> I told my wife to shave her pussy.> 
+> I told my wife to shave her pussy
 > 
 > I woke up bald.
 <!-- END_JOKE_SECTION -->

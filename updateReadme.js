@@ -34,7 +34,7 @@ async function updateReadmeWithJoke() {
     // Remplace la section de blague dans le README
     const updatedReadme = readmeData.replace(
       /<!-- START_JOKE_SECTION -->[\s\S]*<!-- END_JOKE_SECTION -->/gim,
-      `<!-- START_JOKE_SECTION -->\n${jokeData}\n<!-- END_JOKE_SECTION -->`
+      `<!-- START_JOKE_SECTION -->\n"> "${jokeData}\n<!-- END_JOKE_SECTION -->`
     );
 
     // Écriture du nouveau README

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cute cat](https://cataas.com/cat?width=200&height=200)
+![Cute cat](https://cataas.com/cat?width=250&height=250)
 
 Weekly joke 💁‍♂️
 

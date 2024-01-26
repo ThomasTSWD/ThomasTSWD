@@ -9,7 +9,7 @@ async function getRandomJoke() {
     if (data.type === "single") {
       return `> ${data.joke}`;
     } else {
-      return `> \n> \n> ${data.setup}> \n> \n> ${data.delivery}`;
+      return `> \n> ${data.setup}> \n> \n> ${data.delivery}`;
     }
   } catch (error) {
     console.error("Erreur lors de la récupération de la blague :", error);

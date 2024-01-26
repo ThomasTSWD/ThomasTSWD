@@ -7,9 +7,9 @@ Weekly joke 💁‍♂️
 
 <!-- START_JOKE_SECTION -->
 > 
-> Why did the programmer jump on the table?> 
+> Why did the ghost go to the bar?
 > 
-> Because debug was on his screen.
+> To get sheet faced.
 <!-- END_JOKE_SECTION -->
 
 

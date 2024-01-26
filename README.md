@@ -8,9 +8,9 @@ Weekly joke 💁‍♂️
 <!-- START_JOKE_SECTION -->
 > 
 > 
-> I told my psychiatrist I got suicidal tendencies.> 
+> My first high-school football game was a lot like my first time having sex...> 
 > 
-> He said from now on I have to pay in advance.
+> I was bloody and sore at the end, but at least my dad came.
 <!-- END_JOKE_SECTION -->
 
 

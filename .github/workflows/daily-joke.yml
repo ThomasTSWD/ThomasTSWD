@@ -37,8 +37,8 @@ jobs:
       - name: Commit and push if changed
         run: |-
           git diff
-          git config --global user.email "hello@tswd.fr"
-          git config --global user.name "ThomasTSWD"
+          git config --local user.email "hello@tswd.fr"
+          git config --local user.name "ThomasTSWD"
           git add -A
           git commit -m "Update README" || exit 0
           git push

@@ -6,9 +6,9 @@ Weekly joke
 <!-- START_JOKE_SECTION -->
 
 
-> What's the difference between a feminist and a grenade?
+> Why does Beyonce sing "to the left, to the left"?
 
-> The grenade actually accomplishes something when it triggers.
+> Because women don't have rights.
 <!-- END_JOKE_SECTION -->
 
 

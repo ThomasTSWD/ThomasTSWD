@@ -7,9 +7,9 @@ Weekly joke 💁‍♂️
 
 <!-- START_JOKE_SECTION -->
 > 
-> When I was a kid, I made a really big sandcastle with my grandma.
+> What do you get if you lock a monkey in a room with a typewriter for 8 hours?
 > 
-> Unfortunately, that didn't impress anyone at the cremation...
+> A regular expression.
 <!-- END_JOKE_SECTION -->
 
 

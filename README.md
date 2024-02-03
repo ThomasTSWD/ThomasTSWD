@@ -7,9 +7,9 @@ Weekly joke 💁‍♂️
 
 <!-- START_JOKE_SECTION -->
 > 
-> What do you get if you lock a monkey in a room with a typewriter for 8 hours?
+> What's black and sits at the top of a stairwell?
 > 
-> A regular expression.
+> A paraplegic after a house fire.
 <!-- END_JOKE_SECTION -->
 
 

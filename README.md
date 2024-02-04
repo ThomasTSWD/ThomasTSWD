@@ -7,9 +7,9 @@ Weekly joke updated samedi 💁‍♂️
 
 <!-- START_JOKE_SECTION -->
 > 
-> What's black and sits at the top of a stairwell?
+> Why did the Python data scientist get arrested at customs?
 > 
-> A paraplegic after a house fire.
+> She was caught trying to import pandas!
 <!-- END_JOKE_SECTION -->
 
 

@@ -13,7 +13,7 @@ Weekly joke updated samedi 💁‍♂️
 <!-- END_JOKE_SECTION -->
 
 
-*Thank by jokeapi*
+*Thanks to jokeapi*
 
 
 ![Build README](https://github.com/ThomasTSWD/ThomasTSWD/workflows/Build%20README/badge.svg)

@@ -2,7 +2,7 @@
 
 
 
-Weekly joke 💁‍♂️
+Weekly joke updated samedi 💁‍♂️
 
 
 <!-- START_JOKE_SECTION -->
@@ -13,7 +13,7 @@ Weekly joke 💁‍♂️
 <!-- END_JOKE_SECTION -->
 
 
-*Powered by jokeapi*
+*Thank by jokeapi*
 
 
 ![Build README](https://github.com/ThomasTSWD/ThomasTSWD/workflows/Build%20README/badge.svg)

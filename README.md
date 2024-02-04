@@ -7,9 +7,9 @@ Weekly joke updated samedi 💁‍♂️
 
 <!-- START_JOKE_SECTION -->
 > 
-> Why did the Python data scientist get arrested at customs?
+> What's the difference between an apple and a black guy?
 > 
-> She was caught trying to import pandas!
+> The apple will eventually fall from the tree that it's hanging from!
 <!-- END_JOKE_SECTION -->
 
 

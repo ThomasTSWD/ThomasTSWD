@@ -6,10 +6,7 @@ Weekly joke updated samedi 💁‍♂️
 
 
 <!-- START_JOKE_SECTION -->
-> 
-> What's the difference between an apple and a black guy?
-> 
-> The apple will eventually fall from the tree that it's hanging from!
+> Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"
 <!-- END_JOKE_SECTION -->
 
 

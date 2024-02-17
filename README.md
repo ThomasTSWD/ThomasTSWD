@@ -6,7 +6,10 @@ Weekly joke updated samedi 💁‍♂️
 
 
 <!-- START_JOKE_SECTION -->
-> Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"
+> 
+> What's the difference between a school bus and a cactus?
+> 
+> A cactus keeps the little pricks on the outside.
 <!-- END_JOKE_SECTION -->
 
 

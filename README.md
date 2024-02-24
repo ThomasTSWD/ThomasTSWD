@@ -7,9 +7,9 @@ Weekly joke updated samedi 💁‍♂️
 
 <!-- START_JOKE_SECTION -->
 > 
-> What's the difference between a school bus and a cactus?
+> Why do Hong Kong cops like to go to work early?
 > 
-> A cactus keeps the little pricks on the outside.
+> To beat the crowd.
 <!-- END_JOKE_SECTION -->
 
 

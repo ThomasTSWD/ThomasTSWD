@@ -7,9 +7,9 @@ Weekly joke updated samedi 💁‍♂️
 
 <!-- START_JOKE_SECTION -->
 > 
-> Why do Hong Kong cops like to go to work early?
+> What are bits?
 > 
-> To beat the crowd.
+> Tiny things left when you drop your computer down the stairs.
 <!-- END_JOKE_SECTION -->
 
 

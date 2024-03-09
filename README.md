@@ -7,9 +7,9 @@ Weekly joke updated samedi 💁‍♂️
 
 <!-- START_JOKE_SECTION -->
 > 
-> What are bits?
+> "99.9% of the people are dumb!"
 > 
-> Tiny things left when you drop your computer down the stairs.
+> "Fortunately I belong to the remaining 1%"
 <!-- END_JOKE_SECTION -->
 
 

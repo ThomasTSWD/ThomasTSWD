@@ -7,9 +7,9 @@ Weekly joke updated samedi 💁‍♂️
 
 <!-- START_JOKE_SECTION -->
 > 
-> "99.9% of the people are dumb!"
+> What's the difference between a jew and a pizza?
 > 
-> "Fortunately I belong to the remaining 1%"
+> The pizza doesn't scream when you put it in the oven.
 <!-- END_JOKE_SECTION -->
 
 

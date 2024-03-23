@@ -7,9 +7,9 @@ Weekly joke updated samedi 💁‍♂️
 
 <!-- START_JOKE_SECTION -->
 > 
-> What's the difference between a jew and a pizza?
+> Why do programmers prefer using the dark mode?
 > 
-> The pizza doesn't scream when you put it in the oven.
+> Because light attracts bugs.
 <!-- END_JOKE_SECTION -->
 
 

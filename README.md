@@ -7,9 +7,9 @@ Weekly joke updated samedi 💁‍♂️
 
 <!-- START_JOKE_SECTION -->
 > 
-> Why do programmers prefer using the dark mode?
+> Why was the mushroom always invited to parties?
 > 
-> Because light attracts bugs.
+> Cause he's a fungi.
 <!-- END_JOKE_SECTION -->
 
 

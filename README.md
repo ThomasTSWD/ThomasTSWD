@@ -7,9 +7,9 @@ Weekly joke updated samedi 💁‍♂️
 
 <!-- START_JOKE_SECTION -->
 > 
-> Why was the mushroom always invited to parties?
+> To prove he was right, the flat-earther walked to the end of the Earth.
 > 
-> Cause he's a fungi.
+> He eventually came around.
 <!-- END_JOKE_SECTION -->
 
 

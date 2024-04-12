@@ -10,9 +10,9 @@ Font-End webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings. 
+> True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment. 
 > 
-> - Arthur Rubinstein 
+> -  William Penn
 <!-- END_JOKE_SECTION -->
 
 

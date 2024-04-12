@@ -10,9 +10,9 @@ Font-End webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
+> Thought is the blossom; language the bud; action the fruit behind it. 
 > 
-> - Mother Teresa
+> - Ralph Emerson
 <!-- END_JOKE_SECTION -->
 
 

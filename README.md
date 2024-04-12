@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/ThomasTSWD/ThomasTSWD/master/img/edit_moddedfull.webp)
+![header](https://raw.githubusercontent.com/ThomasTSWD/ThomasTSWD/master/img/edit_moddedfull.jpg)
 
 ### Hi there 👋
 

@@ -10,9 +10,9 @@ Font-End webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment. 
+> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
 > 
-> -  William Penn
+> - Mother Teresa
 <!-- END_JOKE_SECTION -->
 
 

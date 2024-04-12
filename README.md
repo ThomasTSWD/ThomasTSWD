@@ -10,9 +10,9 @@ Font-End webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Life is a learning experience, only if you learn.  
+> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings. 
 > 
-> - Yogi Berra
+> - Arthur Rubinstein 
 <!-- END_JOKE_SECTION -->
 
 

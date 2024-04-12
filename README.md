@@ -10,9 +10,9 @@ Font-End webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Our ability to achieve happiness and success depends on the strength of our wings.  
+> Life is a learning experience, only if you learn.  
 > 
-> - Catherine Pulsifer
+> - Yogi Berra
 <!-- END_JOKE_SECTION -->
 
 

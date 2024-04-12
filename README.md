@@ -6,9 +6,9 @@ Weekly quote updated every saturday with Github Actions 💁‍♂️
 
 
 <!-- START_JOKE_SECTION -->
-> Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate. 
+> It is in your moments of decision that your destiny is shaped.  
 > 
-> - Albert Schweitzer
+> - Tony Robbins 
 <!-- END_JOKE_SECTION -->
 
 

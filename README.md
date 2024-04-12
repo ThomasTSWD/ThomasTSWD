@@ -6,10 +6,9 @@ Weekly quote updated every saturday with Github Actions 💁‍♂️
 
 
 <!-- START_JOKE_SECTION -->
+> Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate. 
 > 
-> To prove he was right, the flat-earther walked to the end of the Earth.
-> 
-> He eventually came around.
+> - Albert Schweitzer
 <!-- END_JOKE_SECTION -->
 
 

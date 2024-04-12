@@ -16,7 +16,7 @@ Font-End webdesigner learning Back-End and other stuff ...
 <!-- END_JOKE_SECTION -->
 
 
-Thanks to Forismatic*
+*Thanks to Forismatic*
 
 
 

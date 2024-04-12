@@ -6,9 +6,9 @@ Weekly quote updated every saturday with Github Actions 💁‍♂️
 
 
 <!-- START_JOKE_SECTION -->
-> It is in your moments of decision that your destiny is shaped.  
+> I destroy my enemies when I make them my friends.  
 > 
-> - Tony Robbins 
+> - Abraham Lincoln
 <!-- END_JOKE_SECTION -->
 
 

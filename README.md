@@ -6,9 +6,9 @@ Weekly quote updated every saturday with Github Actions 💁‍♂️
 
 
 <!-- START_JOKE_SECTION -->
-> I destroy my enemies when I make them my friends.  
+> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
 > 
-> - Abraham Lincoln
+> - Bruce Lee
 <!-- END_JOKE_SECTION -->
 
 

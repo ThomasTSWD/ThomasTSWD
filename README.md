@@ -6,7 +6,9 @@ Weekly quote updated every saturday with Github Actions 💁‍♂️
 
 
 <!-- START_JOKE_SECTION -->
-
+> Our ability to achieve happiness and success depends on the strength of our wings.  
+> 
+> - Catherine Pulsifer
 <!-- END_JOKE_SECTION -->
 
 

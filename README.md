@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/ThomasTSWD/ThomasTSWD/master/img/edit_moddedfull.jpg)
+![header](https://raw.githubusercontent.com/ThomasTSWD/ThomasTSWD/master/img/edit_moddedfull.gif)
 
 ### Hi there 👋
 

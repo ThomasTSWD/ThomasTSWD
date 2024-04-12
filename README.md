@@ -2,17 +2,18 @@
 
 
 
-Weekly joke updated samedi 💁‍♂️
+Weekly quote updated every saturday with Github Actions 💁‍♂️
 
 
 <!-- START_JOKE_SECTION -->
-> Every artist dips his brush in his own soul, and paints his own nature into his pictures. 
 > 
-> - Henry Ward Beecher
+> To prove he was right, the flat-earther walked to the end of the Earth.
+> 
+> He eventually came around.
 <!-- END_JOKE_SECTION -->
 
 
-*Thanks to jokeapi*
+*Thanks to Forismatic
 
 
 ![Build README](https://github.com/ThomasTSWD/ThomasTSWD/workflows/Build%20README/badge.svg)

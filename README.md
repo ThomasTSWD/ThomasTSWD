@@ -10,9 +10,9 @@ Font-End webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Thought is the blossom; language the bud; action the fruit behind it. 
+> If you cannot do great things, do small things in a great way.  
 > 
-> - Ralph Emerson
+> - Napoleon Hill 
 <!-- END_JOKE_SECTION -->
 
 

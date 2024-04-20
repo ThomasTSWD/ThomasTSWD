@@ -10,9 +10,9 @@ Font-End webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> If you cannot do great things, do small things in a great way.  
+> Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius. 
 > 
-> - Napoleon Hill 
+> - Wolfgang Amadeus Mozart
 <!-- END_JOKE_SECTION -->
 
 

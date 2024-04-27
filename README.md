@@ -10,9 +10,7 @@ Font-End webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius. 
-> 
-> - Wolfgang Amadeus Mozart
+Erreur lors de la récupération de la citation.
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,7 @@ Font-End webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Those who dream by day are cognizant of many things which escape those who dream only by night. 
-> 
-> - Edgar Allan Poe
+Erreur lors de la récupération de la citation.
 <!-- END_JOKE_SECTION -->
 
 

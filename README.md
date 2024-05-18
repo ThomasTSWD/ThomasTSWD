@@ -10,7 +10,9 @@ Font-End webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-Erreur lors de la récupération de la citation.
+> Change your thoughts, change your life! 
+> 
+> - 
 <!-- END_JOKE_SECTION -->
 
 

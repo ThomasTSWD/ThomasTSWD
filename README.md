@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Life is not measured by the breaths we take, but by the moments that take our breath. 
+> Your work is to discover your work and then with all your heart to give yourself to it.
 > 
-> - 
+> - Buddha
 <!-- END_JOKE_SECTION -->
 
 

@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Font-End webdesigner learning Back-End and other stuff ...
+Webdesigner learning Back-End and other stuff ...
 
 -----
 

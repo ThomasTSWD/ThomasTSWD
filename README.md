@@ -14,7 +14,7 @@ Erreur lors de la récupération de la citation.
 <!-- END_JOKE_SECTION -->
 
 
-*Thanks to Forismatic API*
+*Thanks to Forismatic API *
 
 
 

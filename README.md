@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Your work is to discover your work and then with all your heart to give yourself to it.
+> Love vanquishes time. To lovers, a moment can be eternity, eternity can be the tick of a clock. 
 > 
-> - Buddha
+> - Mary Parrish
 <!-- END_JOKE_SECTION -->
 
 

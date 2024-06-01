@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Love vanquishes time. To lovers, a moment can be eternity, eternity can be the tick of a clock. 
+> And as we let our own light shine, we unconsciously give other people permission to do the same. 
 > 
-> - Mary Parrish
+> - Nelson Mandela 
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> And as we let our own light shine, we unconsciously give other people permission to do the same. 
+> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.  
 > 
-> - Nelson Mandela 
+> - Wayne Dyer
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.  
+> Look forward to spring as a time when you can start to see what nature has to offer once again. 
 > 
-> - Wayne Dyer
+> - Byron Pulsifer
 <!-- END_JOKE_SECTION -->
 
 

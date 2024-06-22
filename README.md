@@ -10,9 +10,7 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Look forward to spring as a time when you can start to see what nature has to offer once again. 
-> 
-> - Byron Pulsifer
+Erreur lors de la récupération de la citation.
 <!-- END_JOKE_SECTION -->
 
 

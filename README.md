@@ -10,7 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-Erreur lors de la récupération de la citation.
+> Continuous effort—not strength or intelligence—is the key to unlocking our potential.
+> 
+> - Winston Churchill
 <!-- END_JOKE_SECTION -->
 
 

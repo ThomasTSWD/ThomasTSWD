@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Continuous effort—not strength or intelligence—is the key to unlocking our potential.
+> Reality does not conform to the ideal, but confirms it. 
 > 
-> - Winston Churchill
+> - Gustave Flaubert
 <!-- END_JOKE_SECTION -->
 
 

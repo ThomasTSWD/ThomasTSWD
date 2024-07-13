@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Reality does not conform to the ideal, but confirms it. 
+> The happy and efficient people in this world are those who accept trouble as a normal detail of human life and resolve to capitalize it when it comes along.
 > 
-> - Gustave Flaubert
+> - H. Bertram Lewis
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> The happy and efficient people in this world are those who accept trouble as a normal detail of human life and resolve to capitalize it when it comes along.
+> Whatever we expect with confidence becomes our own self-fulfilling prophecy. 
 > 
-> - H. Bertram Lewis
+> - Brian Tracy
 <!-- END_JOKE_SECTION -->
 
 

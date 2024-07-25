@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Whatever we expect with confidence becomes our own self-fulfilling prophecy. 
+> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world. 
 > 
-> - Brian Tracy
+> - Eleanor Roosevelt
 <!-- END_JOKE_SECTION -->
 
 

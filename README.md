@@ -10,9 +10,7 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world. 
-> 
-> - Eleanor Roosevelt
+Erreur lors de la récupération de la citation.
 <!-- END_JOKE_SECTION -->
 
 

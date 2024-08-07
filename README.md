@@ -10,7 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-Erreur lors de la récupération de la citation.
+> If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others. 
+> 
+> - Anne Lindbergh
 <!-- END_JOKE_SECTION -->
 
 

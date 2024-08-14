@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others. 
+> So long as a person is capable of self-renewal they are a living being. 
 > 
-> - Anne Lindbergh
+> - Henri Frederic Amiel 
 <!-- END_JOKE_SECTION -->
 
 

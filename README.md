@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> So long as a person is capable of self-renewal they are a living being. 
+> All achievements, all earned riches, have their beginning in an idea.  
 > 
-> - Henri Frederic Amiel 
+> - Napoleon Hill 
 <!-- END_JOKE_SECTION -->
 
 

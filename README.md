@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> All achievements, all earned riches, have their beginning in an idea.  
+> In the middle of every difficulty lies opportunity. 
 > 
-> - Napoleon Hill 
+> - Albert Einstein
 <!-- END_JOKE_SECTION -->
 
 

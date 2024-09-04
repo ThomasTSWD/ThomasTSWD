@@ -10,9 +10,7 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> In the middle of every difficulty lies opportunity. 
-> 
-> - Albert Einstein
+Erreur lors de la récupération de la citation.
 <!-- END_JOKE_SECTION -->
 
 

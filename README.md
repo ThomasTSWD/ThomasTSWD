@@ -10,7 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-Erreur lors de la récupération de la citation.
+> Action may not always bring happiness, but there is no happiness without action. 
+> 
+> - Benjamin Disraeli
 <!-- END_JOKE_SECTION -->
 
 

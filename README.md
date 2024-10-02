@@ -10,7 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-Erreur lors de la récupération de la citation.
+> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason. 
+> 
+> - Immanuel Kant
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason. 
+> Feeling and longing are the motive forces behind all human endeavor and human creations. 
 > 
-> - Immanuel Kant
+> - Albert Einstein
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Feeling and longing are the motive forces behind all human endeavor and human creations. 
+> The cause is hidden. The effect is visible to all. 
 > 
-> - Albert Einstein
+> - Ovid
 <!-- END_JOKE_SECTION -->
 
 

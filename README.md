@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> The cause is hidden. The effect is visible to all. 
+> Try not to become a man of success but rather try to become a man of value. 
 > 
-> - Ovid
+> - Albert Einstein
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Try not to become a man of success but rather try to become a man of value. 
+> A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.
 > 
-> - Albert Einstein
+> - George Bernard Shaw
 <!-- END_JOKE_SECTION -->
 
 

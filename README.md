@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.
+> The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition. 
 > 
-> - George Bernard Shaw
+> - Abernathy 
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition. 
+> True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment. 
 > 
-> - Abernathy 
+> -  William Penn
 <!-- END_JOKE_SECTION -->
 
 

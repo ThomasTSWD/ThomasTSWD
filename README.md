@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment. 
+> Every man takes the limits of his own field of vision for the limits of the world. 
 > 
-> -  William Penn
+> - Arthur Schopenhauer
 <!-- END_JOKE_SECTION -->
 
 

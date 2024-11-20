@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Every man takes the limits of his own field of vision for the limits of the world. 
+> The secret of health for both mind and body is not to mourn for the past, nor to worry about the future, but to live the present moment wisely and earnestly.  
 > 
-> - Arthur Schopenhauer
+> - Buddha 
 <!-- END_JOKE_SECTION -->
 
 

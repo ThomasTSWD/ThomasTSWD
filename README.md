@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> The secret of health for both mind and body is not to mourn for the past, nor to worry about the future, but to live the present moment wisely and earnestly.  
+> I gave my life to become the person I am right now. Was it worth it?  
 > 
-> - Buddha 
+> - Richard Bach 
 <!-- END_JOKE_SECTION -->
 
 

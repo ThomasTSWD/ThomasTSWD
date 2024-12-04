@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> I gave my life to become the person I am right now. Was it worth it?  
+> Goals are the fuel in the furnace of achievement. 
 > 
-> - Richard Bach 
+> - Brian Tracy 
 <!-- END_JOKE_SECTION -->
 
 

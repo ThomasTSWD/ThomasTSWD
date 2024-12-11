@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Goals are the fuel in the furnace of achievement. 
+> Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.  
 > 
-> - Brian Tracy 
+> - Ralph Blum
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.  
+> The past has no power to stop you from being present now. Only your grievance about the past can do that.
 > 
-> - Ralph Blum
+> - Eckhart Tolle
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> The past has no power to stop you from being present now. Only your grievance about the past can do that.
+> Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world. 
 > 
-> - Eckhart Tolle
+> - Jane Addams
 <!-- END_JOKE_SECTION -->
 
 

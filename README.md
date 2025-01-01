@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world. 
+> Give me six hours to chop down a tree and I will spend the first four sharpening the axe. 
 > 
-> - Jane Addams
+> - Abraham Lincoln
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,7 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Give me six hours to chop down a tree and I will spend the first four sharpening the axe. 
-> 
-> - Abraham Lincoln
+Erreur lors de la récupération de la citation.
 <!-- END_JOKE_SECTION -->
 
 

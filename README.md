@@ -10,7 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-Erreur lors de la récupération de la citation.
+> Remembering a wrong is like carrying a burden on the mind.
+> 
+> - Buddha
 <!-- END_JOKE_SECTION -->
 
 

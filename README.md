@@ -10,7 +10,7 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Remembering a wrong is like carrying a burden on the mind.
+> Meditation brings wisdom; lack of mediation leaves ignorance. Know well what leads you forward and what hold you back, and choose the path that leads to wisdom. 
 > 
 > - Buddha
 <!-- END_JOKE_SECTION -->

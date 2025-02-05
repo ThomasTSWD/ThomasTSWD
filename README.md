@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Meditation brings wisdom; lack of mediation leaves ignorance. Know well what leads you forward and what hold you back, and choose the path that leads to wisdom. 
+> Gratitude is riches. Complaint is poverty. 
 > 
-> - Buddha
+> - Doris Day
 <!-- END_JOKE_SECTION -->
 
 

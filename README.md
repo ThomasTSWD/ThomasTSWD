@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Gratitude is riches. Complaint is poverty. 
+> Sincerity is the way of Heaven. The attainment of sincerity is the way of men. 
 > 
-> - Doris Day
+> - Confucius
 <!-- END_JOKE_SECTION -->
 
 

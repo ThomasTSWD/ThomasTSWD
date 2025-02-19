@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Sincerity is the way of Heaven. The attainment of sincerity is the way of men. 
+> Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.
 > 
-> - Confucius
+> - 
 <!-- END_JOKE_SECTION -->
 
 

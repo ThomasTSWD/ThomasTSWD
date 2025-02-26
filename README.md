@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.
+> A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.  
 > 
-> - 
+> - Denis Waitley
 <!-- END_JOKE_SECTION -->
 
 

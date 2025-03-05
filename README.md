@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.  
+> Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong. 
 > 
-> - Denis Waitley
+> - Richard Needham
 <!-- END_JOKE_SECTION -->
 
 

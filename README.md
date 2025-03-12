@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong. 
+> I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody. 
 > 
-> - Richard Needham
+> - Herbert Swope
 <!-- END_JOKE_SECTION -->
 
 

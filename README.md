@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody. 
+> The harder you fall, the higher you bounce. 
 > 
-> - Herbert Swope
+> - 
 <!-- END_JOKE_SECTION -->
 
 

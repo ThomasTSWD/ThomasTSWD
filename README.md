@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> The harder you fall, the higher you bounce. 
+> With realization of ones own potential and self-confidence in ones ability, one can build a better world. 
 > 
-> - 
+> - Dalai Lama 
 <!-- END_JOKE_SECTION -->
 
 

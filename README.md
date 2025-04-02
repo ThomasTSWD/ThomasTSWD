@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> With realization of ones own potential and self-confidence in ones ability, one can build a better world. 
+> We have committed the Golden Rule to memory; let us now commit it to life. 
 > 
-> - Dalai Lama 
+> - Edwin Markham
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> We have committed the Golden Rule to memory; let us now commit it to life. 
+> Nothing happens unless first we dream. 
 > 
-> - Edwin Markham
+> - Carl Sandburg
 <!-- END_JOKE_SECTION -->
 
 

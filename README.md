@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Nothing happens unless first we dream. 
+> Life is change. Growth is optional. Choose wisely. 
 > 
-> - Carl Sandburg
+> - Karen Clark 
 <!-- END_JOKE_SECTION -->
 
 

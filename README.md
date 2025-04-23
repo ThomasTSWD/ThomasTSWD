@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Life is change. Growth is optional. Choose wisely. 
+> If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away. 
 > 
-> - Karen Clark 
+> - John Steinbeck
 <!-- END_JOKE_SECTION -->
 
 

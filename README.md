@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away. 
+> Bad times have a scientific value. These are occasions a good learner would not miss. 
 > 
-> - John Steinbeck
+> - Ralph Emerson
 <!-- END_JOKE_SECTION -->
 
 

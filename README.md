@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Bad times have a scientific value. These are occasions a good learner would not miss. 
+> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered. 
 > 
-> - Ralph Emerson
+> - Nelson Mandela
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered. 
+> When the solution is simple, God is answering.  
 > 
-> - Nelson Mandela
+> - Albert Einstein
 <!-- END_JOKE_SECTION -->
 
 

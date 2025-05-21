@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> When the solution is simple, God is answering.  
+> You must train your intuition — you must trust the small voice inside you which tells you exactly what to say, what to decide. 
 > 
-> - Albert Einstein
+> - Ingrid Bergman
 <!-- END_JOKE_SECTION -->
 
 

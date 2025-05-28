@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> You must train your intuition — you must trust the small voice inside you which tells you exactly what to say, what to decide. 
+> While we stop to think, we often miss our opportunity. 
 > 
-> - Ingrid Bergman
+> - Publilius Syrus
 <!-- END_JOKE_SECTION -->
 
 

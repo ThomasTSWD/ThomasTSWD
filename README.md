@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> While we stop to think, we often miss our opportunity. 
+> Every problem has a gift for you in its hands.
 > 
-> - Publilius Syrus
+> - Richard Bach
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Every problem has a gift for you in its hands.
+> Take heed: you do not find what you do not seek. 
 > 
-> - Richard Bach
+> - English Proverb
 <!-- END_JOKE_SECTION -->
 
 

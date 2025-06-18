@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Take heed: you do not find what you do not seek. 
+> Everything that exists is in a manner the seed of that which will be.  
 > 
-> - English Proverb
+> - Marcus Aurelius 
 <!-- END_JOKE_SECTION -->
 
 

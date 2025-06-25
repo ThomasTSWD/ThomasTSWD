@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Everything that exists is in a manner the seed of that which will be.  
+> Skill to do comes of doing. 
 > 
-> - Marcus Aurelius 
+> - Ralph Emerson
 <!-- END_JOKE_SECTION -->
 
 

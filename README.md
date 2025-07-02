@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Skill to do comes of doing. 
+> At times our own light goes out and is rekindled by a spark from another person. Each of us has cause to think with deep gratitude of those who have lighted the flame within us. 
 > 
-> - Ralph Emerson
+> - Albert Schweitzer
 <!-- END_JOKE_SECTION -->
 
 

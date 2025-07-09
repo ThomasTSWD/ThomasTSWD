@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> At times our own light goes out and is rekindled by a spark from another person. Each of us has cause to think with deep gratitude of those who have lighted the flame within us. 
+> Be kind whenever possible. It is always possible.  
 > 
-> - Albert Schweitzer
+> - Dalai Lama 
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Be kind whenever possible. It is always possible.  
+> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom. 
 > 
-> - Dalai Lama 
+> - Marcel Proust
 <!-- END_JOKE_SECTION -->
 
 

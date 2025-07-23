@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom. 
+> You can observe a lot just by watching. 
 > 
-> - Marcel Proust
+> - Yogi Berra
 <!-- END_JOKE_SECTION -->
 
 

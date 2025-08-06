@@ -10,7 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-Erreur lors de la récupération de la citation.
+> Prosperity depends more on wanting what you have than having what you want.
+> 
+> - Geoffrey F. Abert
 <!-- END_JOKE_SECTION -->
 
 

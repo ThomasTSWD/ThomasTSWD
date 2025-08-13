@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Prosperity depends more on wanting what you have than having what you want.
+> To be wronged is nothing unless you continue to remember it.  
 > 
-> - Geoffrey F. Abert
+> - Confucius 
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> To be wronged is nothing unless you continue to remember it.  
+> To the world you may be just one person, but to one person, you may be the world.
 > 
-> - Confucius 
+> - Brandi Snyder
 <!-- END_JOKE_SECTION -->
 
 

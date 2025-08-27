@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> To the world you may be just one person, but to one person, you may be the world.
+> It is with words as with sunbeams. The more they are condensed, the deeper they burn. 
 > 
-> - Brandi Snyder
+> - Robert Southey
 <!-- END_JOKE_SECTION -->
 
 

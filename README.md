@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> It is with words as with sunbeams. The more they are condensed, the deeper they burn. 
+> Kind words will unlock an iron door. 
 > 
-> - Robert Southey
+> - Turkish Proverb
 <!-- END_JOKE_SECTION -->
 
 

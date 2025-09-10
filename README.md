@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Kind words will unlock an iron door. 
+> In the long run we get no more than we have been willing to risk giving.
 > 
-> - Turkish Proverb
+> - Sheldon Kopp
 <!-- END_JOKE_SECTION -->
 
 

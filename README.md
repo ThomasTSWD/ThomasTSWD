@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> In the long run we get no more than we have been willing to risk giving.
+> You can fool some of the people all of the time, and all of the people some of the time, but you can not fool all of the people all of the time. 
 > 
-> - Sheldon Kopp
+> - Abraham Lincoln
 <!-- END_JOKE_SECTION -->
 
 

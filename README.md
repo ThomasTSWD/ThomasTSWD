@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Be like the flower, turn your face to the sun. 
+> Neither genius, fame, nor love show the greatness of the soul. Only kindness can do that. 
 > 
-> - Kahlil Gibran
+> - Jean Lacordaire 
 <!-- END_JOKE_SECTION -->
 
 

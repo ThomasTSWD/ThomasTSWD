@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Neither genius, fame, nor love show the greatness of the soul. Only kindness can do that. 
+> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
 > 
-> - Jean Lacordaire 
+> - Bruce Lee
 <!-- END_JOKE_SECTION -->
 
 

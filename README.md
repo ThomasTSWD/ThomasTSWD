@@ -10,9 +10,7 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
-> 
-> - Bruce Lee
+Erreur lors de la récupération de la citation.
 <!-- END_JOKE_SECTION -->
 
 

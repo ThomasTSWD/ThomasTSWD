@@ -10,7 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-Erreur lors de la récupération de la citation.
+> As long as your going to be thinking anyway, think big.  
+> 
+> - Donald Trump 
 <!-- END_JOKE_SECTION -->
 
 

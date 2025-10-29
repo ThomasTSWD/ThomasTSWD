@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> As long as your going to be thinking anyway, think big.  
+> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind. 
 > 
-> - Donald Trump 
+> - Paavo Nurmi 
 <!-- END_JOKE_SECTION -->
 
 

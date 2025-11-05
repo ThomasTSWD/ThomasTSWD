@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind. 
+> A goal without a plan is just a wish. 
 > 
-> - Paavo Nurmi 
+> - Larry Elder 
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> A goal without a plan is just a wish. 
+> Every problem has a gift for you in its hands.  
 > 
-> - Larry Elder 
+> - Richard Bach 
 <!-- END_JOKE_SECTION -->
 
 

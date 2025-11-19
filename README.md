@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Every problem has a gift for you in its hands.  
+> From small beginnings come great things.
 > 
-> - Richard Bach 
+> - 
 <!-- END_JOKE_SECTION -->
 
 

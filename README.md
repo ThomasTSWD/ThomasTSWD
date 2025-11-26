@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> From small beginnings come great things.
+> To speak gratitude is courteous and pleasant, to enact gratitude is generous and noble, but to live gratitude is to touch Heaven. 
 > 
-> - 
+> - Johannes Gaertner
 <!-- END_JOKE_SECTION -->
 
 

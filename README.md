@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> To speak gratitude is courteous and pleasant, to enact gratitude is generous and noble, but to live gratitude is to touch Heaven. 
+> To be what we are, and to become what we are capable of becoming, is the only end of life.  
 > 
-> - Johannes Gaertner
+> - Robert Stevenson
 <!-- END_JOKE_SECTION -->
 
 

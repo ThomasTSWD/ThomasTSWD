@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> To be what we are, and to become what we are capable of becoming, is the only end of life.  
+> The universe is transformation; our life is what our thoughts make it.  
 > 
-> - Robert Stevenson
+> - Marcus Aurelius 
 <!-- END_JOKE_SECTION -->
 
 

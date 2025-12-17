@@ -10,9 +10,7 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> The universe is transformation; our life is what our thoughts make it.  
-> 
-> - Marcus Aurelius 
+Erreur lors de la récupération de la citation.
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> You have to think anyway, so why not think big?  
+> Self-complacency is fatal to progress.
 > 
-> - Donald Trump 
+> - Margaret Sangster
 <!-- END_JOKE_SECTION -->
 
 

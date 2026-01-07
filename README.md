@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> Self-complacency is fatal to progress.
+> The more light you allow within you, the brighter the world you live in will be.
 > 
-> - Margaret Sangster
+> - Shakti Gawain
 <!-- END_JOKE_SECTION -->
 
 

@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> The more light you allow within you, the brighter the world you live in will be.
+> When one has the feeling of dislike for evil, when one feels tranquil, one finds pleasure in listening to good teachings; when one has these feelings and appreciates them, one is free of fear.  
 > 
-> - Shakti Gawain
+> - Buddha
 <!-- END_JOKE_SECTION -->
 
 

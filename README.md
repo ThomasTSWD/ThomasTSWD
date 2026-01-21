@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> When one has the feeling of dislike for evil, when one feels tranquil, one finds pleasure in listening to good teachings; when one has these feelings and appreciates them, one is free of fear.  
+> The smallest act of kindness is worth more than the grandest intention. 
 > 
-> - Buddha
+> - Oscar Wilde
 <!-- END_JOKE_SECTION -->
 
 

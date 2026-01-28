@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> The smallest act of kindness is worth more than the grandest intention. 
+> If we could see the miracle of a single flower clearly, our whole life would change. 
 > 
-> - Oscar Wilde
+> - Buddha
 <!-- END_JOKE_SECTION -->
 
 

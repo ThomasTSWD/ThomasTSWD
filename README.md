@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> If we could see the miracle of a single flower clearly, our whole life would change. 
+> We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light. 
 > 
-> - Buddha
+> - Ralph Emerson
 <!-- END_JOKE_SECTION -->
 
 

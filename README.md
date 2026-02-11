@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light. 
+> The important thing is this: to be able at any moment to sacrifice what we are for what we could become. 
 > 
-> - Ralph Emerson
+> - Charles Dubois
 <!-- END_JOKE_SECTION -->
 
 

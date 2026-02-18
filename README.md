@@ -10,9 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-> The important thing is this: to be able at any moment to sacrifice what we are for what we could become. 
+> If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.
 > 
-> - Charles Dubois
+> - Ajahn Chah
 <!-- END_JOKE_SECTION -->
 
 

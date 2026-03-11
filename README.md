@@ -10,7 +10,9 @@ Webdesigner learning Back-End and other stuff ...
 
 
 <!-- START_JOKE_SECTION -->
-Erreur lors de la récupération de la citation.
+> The road leading to a goal does not separate you from the destination; it is essentially a part of it.  
+> 
+> - Charles DeLint
 <!-- END_JOKE_SECTION -->
 
 

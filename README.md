@@ -10,9 +10,9 @@ Web developer, webdesigner and webmaster with 8+ years of experience in freelanc
 
 
 <!-- START_JOKE_SECTION -->
-> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.  
+> We know from science that nothing in the universe exists as an isolated or independent entity. 
 > 
-> - Nikola Tesla 
+> - Margaret Wheatley
 <!-- END_JOKE_SECTION -->
 
 

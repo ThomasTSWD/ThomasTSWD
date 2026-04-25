@@ -2,16 +2,19 @@ const fs = require('fs');
 
 async function getRandomQuote() {
     try {
-        const response = await fetch("http://api.forismatic.com/api/1.0/?method=getQuote&format=json&lang=en");
-        const data = await response.json();
+        const response = await fetch("https://api.forismatic.com/api/1.0/?method=getQuote&format=json&lang=en");
+        const text = await response.text();
 
-        return `> ${data.quoteText}\n> \n> - ${data.quoteAuthor}`;
+        // Nettoie les caractères échappés invalides
+        const cleanedText = text.replace(/\\'/g, "'");
+
+        const data = JSON.parse(cleanedText);
+        return `> ${data.quoteText}\n> \n> — ${data.quoteAuthor}`;
     } catch (error) {
         console.error("Erreur lors de la récupération de la citation :", error);
         return "Erreur lors de la récupération de la citation.";
     }
 }
-
 async function updateReadmeWithQuote() {
     try {
         const quoteData = await getRandomQuote();

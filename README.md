@@ -10,9 +10,9 @@ Web developer, webdesigner and webmaster with 8+ years of experience in freelanc
 
 
 <!-- START_JOKE_SECTION -->
-> We know from science that nothing in the universe exists as an isolated or independent entity. 
+> He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye.  
 > 
-> - Margaret Wheatley
+> — Buddha
 <!-- END_JOKE_SECTION -->
 
 

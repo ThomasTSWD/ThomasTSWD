@@ -10,9 +10,9 @@ Web developer, webdesigner and webmaster with 8+ years of experience in freelanc
 
 
 <!-- START_JOKE_SECTION -->
-> He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye.  
+> Discovery consists of seeing what everybody has seen and thinking what nobody else has thought. 
 > 
-> — Buddha
+> — Jonathan Swift 
 <!-- END_JOKE_SECTION -->
 
 

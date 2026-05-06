@@ -10,9 +10,9 @@ Web developer, webdesigner and webmaster with 8+ years of experience in freelanc
 
 
 <!-- START_JOKE_SECTION -->
-> Discovery consists of seeing what everybody has seen and thinking what nobody else has thought. 
+> To the world you may be just one person, but to one person, you may be the world.
 > 
-> — Jonathan Swift 
+> — Brandi Snyder
 <!-- END_JOKE_SECTION -->
 
 

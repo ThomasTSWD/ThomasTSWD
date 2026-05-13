@@ -10,9 +10,9 @@ Web developer, webdesigner and webmaster with 8+ years of experience in freelanc
 
 
 <!-- START_JOKE_SECTION -->
-> To the world you may be just one person, but to one person, you may be the world.
+> We cannot change our memories, but we can change their meaning and the power they have over us. 
 > 
-> — Brandi Snyder
+> — David Seamans
 <!-- END_JOKE_SECTION -->
 
 

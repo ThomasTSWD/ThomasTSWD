@@ -10,9 +10,7 @@ Web developer, webdesigner and webmaster with 8+ years of experience in freelanc
 
 
 <!-- START_JOKE_SECTION -->
-> We cannot change our memories, but we can change their meaning and the power they have over us. 
-> 
-> — David Seamans
+Erreur lors de la récupération de la citation.
 <!-- END_JOKE_SECTION -->
 
 
